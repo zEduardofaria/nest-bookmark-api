@@ -11,8 +11,7 @@ export class AuthController {
     @Body()
     dto: AuthDto,
   ) {
-    console.log('🚀 ~ signup ~ dto', { dto });
-    return this.authService.signup();
+    return this.authService.signup(dto);
   }
 
   @Post('signin')

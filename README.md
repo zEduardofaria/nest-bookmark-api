@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-    It's just a project to study!
+    It's just a project for study!
 </h3>
 
 <p align="center">

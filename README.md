@@ -39,7 +39,7 @@
 
 ## About
 
-This project aimed to be a way to practice core concepts from NestJS, such as:
+It's a simple API with CRUD operations and authentication token control. This project aimed to be a way to practice core concepts from NestJS, such as:
 
 - Project setup
 - Pipes

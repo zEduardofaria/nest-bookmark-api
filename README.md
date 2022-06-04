@@ -121,7 +121,7 @@ The following tools were used in the construction of the project:
 - **[Passaport](https://www.passportjs.org/)**
 - **[Prisma](https://www.prisma.io/)**
 
-> See the file [package.json](https://github.com/zEduardofaria/nest-bookmark-api/blob/master/server/package.json)
+> See the file [package.json](https://github.com/zEduardofaria/nest-bookmark-api/blob/master/package.json)
 
 #### **Utilitários**
 

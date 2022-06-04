@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-   ♻️ <a href="#"> Nest JS Bookmark API </a>
+   <a href="#"> Nest JS Bookmark API </a>
 </h1>
 
 <h3 align="center">

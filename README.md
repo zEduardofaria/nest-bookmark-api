@@ -39,29 +39,35 @@
 
 ## About
 
-♻️ Ecoleta - is a way to connect companies and entities that collect organic and inorganic waste to people who need to dispose of their waste in an ecological way.
-Project developed during ** NLW - Next Level Week ** offered by [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/). NLW is an online experience with lots of practical content, challenges and hacks where the content is available for a week.
+This project aimed to be a way to practice core concepts from NestJS, such as:
+
+- Project setup
+- Pipes
+- Prisma setup with Nest
+- Guards
+- Custom param decorator
+- JWT Module with Passaport js
 
 ---
 
 ## Features
 
-- [x] Companies or entities can register on the web platform by sending:
+- [x] Auth
 
-  - [x] an image of the collection point
-  - [x] entity name, email and whatsapp
-  - [x] and the address so that it can appear on the map
-  - [x] in addition to selecting one or more collection items:
-    - lamps
-    - Batteries
-    - papers and cardboard
-    - electronic waste
-    - organic waste
-    - kitchen oil
+  - [x] Sign in
+  - [x] Sign up
 
-- [x] Users have access to the mobile application, where they can:
-  - [x] browse the map to see the registered institutions
-  - [x] contact the entity via E-mail or WhatsApp
+- [x] Users
+
+  - [x] Get user
+  - [x] Edit user
+
+- [x] Bookmarks
+
+  - [x] List Bookmarks
+  - [x] Get Bookmark by id
+  - [x] Edit Bookmark
+  - [x] Delete Bookmark
 
 ---
 
@@ -103,10 +109,6 @@ $ yarn start:dev
 $ yarn test:e2e
 
 ```
-
-<p align="center">
-  <a href="https://github.com/zEduardofaria/nest-bookmark-api/blob/master/Insomnia_API_Ecoletajson.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
 
 ## Tech Stack
 

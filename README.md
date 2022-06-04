@@ -74,8 +74,8 @@ This project aimed to be a way to practice core concepts from NestJS, such as:
 ### Pre-requisites
 
 Before you begin, you will need to have the following tools installed on your machine:
-[Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/), [Docker] (https://www.docker.com/),
-In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Docker](https://www.docker.com/),
+In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
 
 #### Running the Backend (Server)
 

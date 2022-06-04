@@ -105,7 +105,7 @@ $ yarn start:dev
 
 ```bash
 
-# Clone this repository
+# Restart DB, and run it again with Docker compose
 $ yarn test:e2e
 
 ```

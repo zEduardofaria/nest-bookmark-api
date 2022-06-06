@@ -29,6 +29,13 @@
 	 Status: Finished
 </h4>
 
+```
+⚠️ WARNING
+  - This project does not reflect my code pattern for my own projects;
+  - I usually use Typescript, clean architecture, and SOLID principles;
+  - Get in touch for us to talk about more about that ;)
+```
+
 <p align="center">
  <a href="#about">About</a> •
  <a href="#features">Features</a> •
